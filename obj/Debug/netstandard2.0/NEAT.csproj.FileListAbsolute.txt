@@ -1,0 +1,10 @@
+/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/bin/Debug/netstandard2.0/NEAT.deps.json
+/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/bin/Debug/netstandard2.0/NEAT.dll
+/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/bin/Debug/netstandard2.0/NEAT.pdb
+/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/obj/Debug/netstandard2.0/NEAT.csproj.AssemblyReference.cache
+/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/obj/Debug/netstandard2.0/NEAT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/obj/Debug/netstandard2.0/NEAT.AssemblyInfoInputs.cache
+/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/obj/Debug/netstandard2.0/NEAT.AssemblyInfo.cs
+/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/obj/Debug/netstandard2.0/NEAT.csproj.CoreCompileInputs.cache
+/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/obj/Debug/netstandard2.0/NEAT.dll
+/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/obj/Debug/netstandard2.0/NEAT.pdb

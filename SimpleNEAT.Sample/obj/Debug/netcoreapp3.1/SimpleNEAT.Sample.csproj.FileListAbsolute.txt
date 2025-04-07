@@ -1,0 +1,17 @@
+/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/SimpleNEAT.Sample/bin/Debug/netcoreapp3.1/SimpleNEAT.Sample
+/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/SimpleNEAT.Sample/bin/Debug/netcoreapp3.1/SimpleNEAT.Sample.deps.json
+/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/SimpleNEAT.Sample/bin/Debug/netcoreapp3.1/SimpleNEAT.Sample.runtimeconfig.json
+/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/SimpleNEAT.Sample/bin/Debug/netcoreapp3.1/SimpleNEAT.Sample.runtimeconfig.dev.json
+/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/SimpleNEAT.Sample/bin/Debug/netcoreapp3.1/SimpleNEAT.Sample.dll
+/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/SimpleNEAT.Sample/bin/Debug/netcoreapp3.1/SimpleNEAT.Sample.pdb
+/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/SimpleNEAT.Sample/bin/Debug/netcoreapp3.1/NEAT.dll
+/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/SimpleNEAT.Sample/bin/Debug/netcoreapp3.1/NEAT.pdb
+/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/SimpleNEAT.Sample/obj/Debug/netcoreapp3.1/SimpleNEAT.Sample.csproj.AssemblyReference.cache
+/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/SimpleNEAT.Sample/obj/Debug/netcoreapp3.1/SimpleNEAT.Sample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/SimpleNEAT.Sample/obj/Debug/netcoreapp3.1/SimpleNEAT.Sample.AssemblyInfoInputs.cache
+/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/SimpleNEAT.Sample/obj/Debug/netcoreapp3.1/SimpleNEAT.Sample.AssemblyInfo.cs
+/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/SimpleNEAT.Sample/obj/Debug/netcoreapp3.1/SimpleNEAT.Sample.csproj.CoreCompileInputs.cache
+/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/SimpleNEAT.Sample/obj/Debug/netcoreapp3.1/SimpleNE.882A6F53.Up2Date
+/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/SimpleNEAT.Sample/obj/Debug/netcoreapp3.1/SimpleNEAT.Sample.dll
+/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/SimpleNEAT.Sample/obj/Debug/netcoreapp3.1/SimpleNEAT.Sample.pdb
+/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/SimpleNEAT.Sample/obj/Debug/netcoreapp3.1/SimpleNEAT.Sample.genruntimeconfig.cache

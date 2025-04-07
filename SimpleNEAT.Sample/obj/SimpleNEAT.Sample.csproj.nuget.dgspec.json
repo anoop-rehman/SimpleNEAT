@@ -1,0 +1,131 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/SimpleNEAT.Sample/SimpleNEAT.Sample.csproj": {}
+  },
+  "projects": {
+    "/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/NEAT.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/NEAT.csproj",
+        "projectName": "NEAT",
+        "projectPath": "/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/NEAT.csproj",
+        "packagesPath": "/Users/anooprehman/.nuget/packages/",
+        "outputPath": "/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/anooprehman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.405/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/SimpleNEAT.Sample/SimpleNEAT.Sample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/SimpleNEAT.Sample/SimpleNEAT.Sample.csproj",
+        "projectName": "SimpleNEAT.Sample",
+        "projectPath": "/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/SimpleNEAT.Sample/SimpleNEAT.Sample.csproj",
+        "packagesPath": "/Users/anooprehman/.nuget/packages/",
+        "outputPath": "/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/SimpleNEAT.Sample/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/anooprehman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/NEAT.csproj": {
+                "projectPath": "/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/NEAT.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.405/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

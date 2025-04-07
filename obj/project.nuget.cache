@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1LutM6COfq0=",
+  "success": true,
+  "projectFilePath": "/Users/anooprehman/Documents/uoft/extracurricular/design_teams/utmist3/aiw/SimpleNEAT/NEAT.csproj",
+  "expectedPackageFiles": [
+    "/Users/anooprehman/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/anooprehman/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
