@@ -95,6 +95,20 @@ namespace NEAT.NN
             return genome;
         }
         
+        // PUBLIC SERIALIZATION METHODS - Added to fix build serialization issues
+        
+        // Get all nodes for serialization - avoids reflection in builds
+        public Dictionary<int, NodeGene> GetNodes()
+        {
+            return _nodes;
+        }
+        
+        // Get all connections for serialization - avoids reflection in builds
+        public Dictionary<int, ConnectionGene> GetConnections()
+        {
+            return _connections;
+        }
+        
         // Helper method to update _nodeValues field with the latest values from the network
         private void UpdateNodeValues()
         {
