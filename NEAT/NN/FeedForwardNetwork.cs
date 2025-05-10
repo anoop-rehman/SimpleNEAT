@@ -112,21 +112,17 @@ namespace NEAT.NN
         // Helper method to update _nodeValues field with the latest values from the network
         private void UpdateNodeValues()
         {
-            // Use reflection to access the private _nodeValues field in NeuralNetwork
-            var fieldInfo = _network.GetType().GetField("_nodeValues", 
-                System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance);
+            // Instead of using reflection, directly ask the neural network for its node values
+            // This is much more reliable in builds with IL2CPP/AOT compilation
+            var networkNodeValues = _network.GetNodeValues();
             
-            if (fieldInfo != null)
+            if (networkNodeValues != null)
             {
-                var networkNodeValues = fieldInfo.GetValue(_network) as Dictionary<int, double>;
-                if (networkNodeValues != null)
+                // Copy values to our exposed _nodeValues field
+                _nodeValues.Clear();
+                foreach (var kvp in networkNodeValues)
                 {
-                    // Copy values to our exposed _nodeValues field
-                    _nodeValues.Clear();
-                    foreach (var kvp in networkNodeValues)
-                    {
-                        _nodeValues[kvp.Key] = kvp.Value;
-                    }
+                    _nodeValues[kvp.Key] = kvp.Value;
                 }
             }
         }

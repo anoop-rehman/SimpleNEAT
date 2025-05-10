@@ -129,5 +129,11 @@ namespace NEAT.NN
         {
             return Math.Max(0, x);
         }
+        
+        // Public accessor method to avoid reflection in builds
+        public Dictionary<int, double> GetNodeValues()
+        {
+            return new Dictionary<int, double>(_nodeValues);
+        }
     }
 } 
